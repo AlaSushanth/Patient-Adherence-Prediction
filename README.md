@@ -1,5 +1,7 @@
 # 🏥 Patient Adherence Prediction using Machine Learning
 
+![Website_HomePage](Home_Page.png)
+
 ## Project Overview
 
 This project predicts whether a patient is likely to adhere to prescribed medication using supervised machine learning techniques. The objective is to assist healthcare providers in identifying patients who are at risk of non-adherence, enabling timely interventions and improving treatment outcomes.

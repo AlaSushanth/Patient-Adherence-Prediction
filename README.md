@@ -6,7 +6,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)
 ![SHAP](https://img.shields.io/badge/Explainability-SHAP-green.svg)
 
-![Home Page](images/Home_Page.png)
+![Home Page](Home_Page.png)
 
 A supervised machine learning project that predicts whether a patient is likely to **adhere (1)** or **not adhere (0)** to their prescribed medication — helping healthcare providers flag at-risk patients early and intervene before outcomes worsen.
 
